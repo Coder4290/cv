@@ -1,0 +1,47 @@
+<!DOCTYPEhtml>
+<html lang="en"dir="ltr">
+<head>
+<metacharset="utf-8">
+<title>Owen's Personal Site</title>
+</head>
+
+<!--Comment: Working well-->
+<body>
+<img src="images/jetson.png"alt="Mr. Jetson Cartoon Picture">
+
+<h1>Owen Keefer's Webpage</h1>
+
+<p><em>Personal Computer Repair:<strong>Virus Removal & PCSetup.</strong></em></p>
+
+<p>I am a student at BRCC taking Web Design BootCamp.</p>
+
+<hr size="5">
+
+
+
+<h3>Education:</h3>
+<p>Attended BRCC, VT, JMU, PLU, GMU</p>
+<p>Waynesboro High School</p>
+
+
+
+<h3>Books</h3>
+<ul>
+<li>Notebook of Boot Camp</li>
+<li>Book on HTML/CSS/MYSQL</li>
+<li>Programming Python</li>
+</ul>
+
+
+
+<h3>My Hobbies</h3>
+<ol>
+<li>Hiking</li>
+<li>Camping</li>
+<li>GeoCaching</li>
+<li>Watching SF</li>
+</ol>
+
+
+</body>
+</html>
